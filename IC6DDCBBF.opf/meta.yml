@@ -1,0 +1,16 @@
+id: IC6DDCBBF
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:02:37.384004
+last_modified: 2023-02-08 15:02:37.384122
+source_metadata:
+  title: Dīrghāgama, sūtras no. 35-41
+  language: bo
+bases:
+  7E29:
+    base_file: 7E29.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
